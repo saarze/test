@@ -1,10 +1,6 @@
 Adding new line from new_feature branch
 patron des moines
-<<<<<<< HEAD
-Patrimoine de a la conla
-=======
 Patrimoine changing something here de la
->>>>>>> new_feature
 Alfred de Camus. Also this is from new_feature branch
 D'Artagnan de l'audela.
 
