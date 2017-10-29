@@ -1,2 +1,3 @@
 a new development branch for us to use
 Dev branch changed from github itself.
+edit both dev and master in remote
